@@ -1,0 +1,516 @@
+order_id,order_date,city,product_category,product_name,order_total,delivery_minutes,customer_rating,payment_method,customer_age
+10000,2025-12-15,Alexandria,Food & Groceries,Pasta,410.84,99,,Wallet,28.0
+10001,2025-04-10,Alexandria,Books,History Book,635.68,106,1.7,Cash,50.0
+10002,2025-11-10,Aswan,Books,Dictionary,807.78,366,2.6,Bank Transfer,45.0
+10003,2025-09-28,Mansoura,Books,History Book,283.28,134,4.9,Cash,20.0
+10004,2025-11-03,cairo,Electronics,Laptop,589.78,81,3.7,Wallet,
+10005,2025-09-21,Cairo,Books,Science Book,382.39,77,4.0,Credit Card,23.0
+10006,2025-04-16,Aswan,Clothing,T-Shirt,1058.46,95,1.4,Wallet,57.0
+10007,2025-07-27, CAIRO ,Electronics,Smartphone,638.78,121,2.1,Bank Transfer,62.0
+10008,2025-06-06,Alex,Electronics,Laptop,784.76,81,2.6,Bank Transfer,41.0
+10009,2025-05-19,Alexandria,Food & Groceries,Pasta,1113.02,112,1.3,Wallet,58.0
+10010,2025-05-15,Alex,Books,Dictionary,632.29,84,2.2,Bank Transfer,54.0
+10011,2025-06-21,cairo,Food & Groceries,Coffee,84.45,122,4.9,Wallet,18.0
+10012,2025-08-06,Alexandria,Electronics,Headphones,1980.3,62,2.7,Credit Card,30.0
+10013,2025-03-04,giza,Food & Groceries,Rice,832.12,30,4.6,Wallet,56.0
+10014,2025-05-23, CAIRO ,Electronics,Tablet,847.51,108,3.8,Bank Transfer,19.0
+10015,2025-02-14,Giza,Clothing,T-Shirt,889.99,99,1.7,Credit Card,28.0
+10016,2025-12-14,Giza,Books,Science Book,710.18,78,2.7,Bank Transfer,30.0
+10017,2025-09-16,Cairo,Electronics,Tablet,341.52,178,3.8,Credit Card,61.0
+10018,2025-11-11,Giza,Books,Dictionary,67.94,127,1.3,Credit Card,29.0
+10019,2025-10-22,Aswan,Clothing,T-Shirt,645.38,87,2.4,Cash,36.0
+10020,2025-05-10,Aswan,Clothing,Jeans,1199.99,112,2.0,Wallet,55.0
+10021,2025-11-21,cairo,Books,Science Book,1226.32,78,4.2,Cash,23.0
+10022,2025-12-15,Alex,Books,Dictionary,257.27,92,3.6,Bank Transfer,58.0
+10023,2025-05-08,Aswan,Electronics,Tablet,664.11,63,,Wallet,
+10024,2025-10-25,Giza,Clothing,Shoes,201.31,93,5.0,Credit Card,29.0
+10025,2025-02-06,giza,Electronics,Smartphone,367.07,50,3.9,Wallet,37.0
+10026,2025-02-23, CAIRO ,Books,Dictionary,1028.57,123,3.3,Bank Transfer,42.0
+10027,2025-06-02,Cairo,Food & Groceries,Pasta,749.95,31,2.8,Cash,58.0
+10028,2025-06-10,Cairo,Books,Science Book,1205.51,65,3.6,Wallet,20.0
+10029,2025-05-08,Aswan,Electronics,Tablet,1595.67,94,2.0,Credit Card,55.0
+10030,2025-12-31,Aswan,Clothing,Shoes,1223.28,106,3.0,Bank Transfer,64.0
+10031,2025-11-13,Aswan,Books,Dictionary,814.69,85,1.7,Bank Transfer,47.0
+10032,2025-02-15,giza,Electronics,Smartphone,1012.15,31,,Bank Transfer,50.0
+10033,2025-07-10,Giza,Books,Dictionary,643.72,115,1.7,Cash,59.0
+10034,2025-02-23,cairo,Food & Groceries,Pasta,398.3,131,2.0,Credit Card,19.0
+10035,2025-09-30,Alex,Clothing,T-Shirt,464.35,131,2.2,Wallet,43.0
+10036,2025-11-02,giza,Food & Groceries,Rice,385.86,104,1.3,Credit Card,33.0
+10037,2025-05-23,Mansoura,Clothing,Jeans,1461.34,69,2.3,Credit Card,39.0
+10038,2025-02-27,Cairo,Clothing,Shoes,9779.0,102,4.3,Bank Transfer,61.0
+10039,2025-01-05,Mansoura,Books,Science Book,815.95,70,3.2,Wallet,
+10040,2025-05-24,mansoura ,Books,Dictionary,342.23,30,4.0,Credit Card,54.0
+10041,2025-04-27,Cairo,Clothing,Jacket,529.86,139,1.7,Cash,64.0
+10042,2025-04-06,Aswan,Clothing,Shoes,894.87,157,3.6,Cash,39.0
+10043,2025-09-04,Cairo,Electronics,Headphones,1243.42,68,1.1,Credit Card,45.0
+10044,2025-02-16,Cairo,Electronics,Headphones,607.76,122,2.9,Cash,40.0
+10045,2025-01-10,mansoura ,Clothing,Shoes,755.06,76,3.5,Credit Card,49.0
+10046,2025-11-21,cairo,Electronics,Tablet,869.67,71,1.1,Bank Transfer,49.0
+10047,2025-12-06,Aswan,Food & Groceries,Milk,437.96,96,4.2,Wallet,54.0
+10048,2025-11-19,Alex,Books,Dictionary,629.75,96,,Credit Card,27.0
+10049,2025-04-25,Giza,Clothing,Shoes,7755.0,129,4.7,Bank Transfer,53.0
+10050,2025-10-04,mansoura ,Electronics,Tablet,993.11,68,4.2,Cash,52.0
+10051,2025-02-05,Mansoura,Books,History Book,1165.29,96,3.2,Bank Transfer,30.0
+10052,2025-08-05,Alexandria,Food & Groceries,Milk,804.25,117,4.3,Credit Card,30.0
+10053,2025-01-19,Mansoura,Food & Groceries,Pasta,937.21,86,3.7,Bank Transfer,36.0
+10054,2025-05-24,Mansoura,Clothing,Jacket,1193.24,154,1.9,Cash,40.0
+10055,2025-02-26,Cairo,Books,Novel,555.3,89,3.2,Cash,
+10056,2025-08-09,Giza,Food & Groceries,Milk,831.53,92,4.4,Credit Card,30.0
+10057,2025-06-19,Mansoura,Books,History Book,635.14,96,1.3,Wallet,25.0
+10058,2025-12-31,Mansoura,Books,Dictionary,901.46,84,3.4,Bank Transfer,23.0
+10059,2025-10-02, CAIRO ,Books,Science Book,443.23,114,2.3,Credit Card,20.0
+10060,2025-05-21,Mansoura,Electronics,Headphones,912.95,65,4.0,Cash,45.0
+10061,2025-07-10,Mansoura,Clothing,T-Shirt,679.88,103,4.9,Bank Transfer,62.0
+10062,2025-06-22,Cairo,Books,Novel,741.18,98,3.8,Cash,35.0
+10063,2025-08-21,Alexandria,Food & Groceries,Coffee,1553.61,66,3.3,Bank Transfer,40.0
+10064,2025-01-12,mansoura ,Electronics,Tablet,761.17,119,3.5,Bank Transfer,45.0
+10065,2025-03-31,Mansoura,Books,Dictionary,534.3,94,4.9,Bank Transfer,44.0
+10066,2025-05-25,Giza,Clothing,T-Shirt,999.97,119,1.7,Credit Card,
+10067,2025-03-23,Mansoura,Electronics,Laptop,337.92,144,4.7,Credit Card,62.0
+10068,2025-04-29,Mansoura,Electronics,Headphones,903.42,57,2.5,Credit Card,
+10069,2025-04-08,Cairo,Electronics,Smartphone,761.98,88,4.5,Cash,22.0
+10070,2025-05-13,mansoura ,Food & Groceries,Rice,1358.65,108,4.0,Wallet,34.0
+10071,2025-03-19,Alexandria,Electronics,Laptop,842.1,105,1.9,Cash,57.0
+10072,2025-02-03,Giza,Books,Dictionary,799.43,77,2.9,Wallet,29.0
+10073,2025-02-23,mansoura ,Electronics,Headphones,712.86,119,1.5,Wallet,40.0
+10074,2025-08-17,cairo,Food & Groceries,Milk,871.09,91,3.4,Credit Card,47.0
+10075,2025-12-13,Cairo,Food & Groceries,Milk,870.05,24,4.1,Bank Transfer,47.0
+10076,2025-04-16,giza,Food & Groceries,Rice,731.87,132,4.4,Cash,37.0
+10077,2025-03-10,mansoura ,Books,Novel,398.18,71,3.3,Wallet,64.0
+10078,2025-05-31,Alexandria,Electronics,Smartphone,1364.13,65,1.7,Bank Transfer,42.0
+10079,2025-12-18,Mansoura,Food & Groceries,Rice,826.62,100,1.9,Cash,22.0
+10080,2025-04-02,Giza,Clothing,Jeans,298.07,84,2.5,Credit Card,43.0
+10081,2025-03-14,Cairo,Electronics,Smartphone,555.1,96,4.5,Wallet,34.0
+10082,2025-10-19,Alex,Clothing,T-Shirt,862.34,91,3.1,Bank Transfer,39.0
+10083,2025-01-28,Mansoura,Clothing,Shoes,711.48,93,1.6,Wallet,24.0
+10084,2025-04-21,Alex,Food & Groceries,Coffee,459.71,92,2.8,Wallet,32.0
+10085,2025-04-29,Mansoura,Books,Science Book,,96,1.4,Credit Card,61.0
+10086,2025-05-25,Giza,Electronics,Laptop,1169.37,109,3.0,Wallet,53.0
+10087,2025-02-03,Aswan,Food & Groceries,Pasta,436.96,84,,Credit Card,43.0
+10088,2025-08-14,Giza,Books,History Book,809.69,93,1.9,Credit Card,38.0
+10089,2025-03-11,Giza,Clothing,Shoes,1079.12,94,1.0,Credit Card,47.0
+10090,2025-03-03,giza,Books,History Book,188.84,168,4.4,Cash,23.0
+10091,2025-04-28, CAIRO ,Clothing,Shoes,230.36,91,1.5,Credit Card,31.0
+10092,2025-02-07,Aswan,Books,History Book,730.71,104,3.4,Credit Card,27.0
+10093,2025-05-18,mansoura ,Electronics,Laptop,596.1,97,1.6,Cash,34.0
+10094,2025-02-07,Mansoura,Electronics,Headphones,13495.0,135,4.7,Wallet,26.0
+10095,2025-03-17,Mansoura,Clothing,T-Shirt,970.82,137,4.4,Bank Transfer,28.0
+10096,2025-08-17,Alexandria,Electronics,Headphones,645.15,103,1.9,Credit Card,43.0
+10097,2025-05-12,Giza,Clothing,Jeans,1220.42,77,2.8,Credit Card,49.0
+10098,2025-05-05,Giza,Food & Groceries,Coffee,1499.32,42,2.4,Wallet,19.0
+10099,2025-11-05,giza,Clothing,Jacket,10.0,132,2.3,Wallet,25.0
+10100,2025-01-15,giza,Clothing,T-Shirt,1138.07,92,4.2,Credit Card,50.0
+10101,2025-10-16,Cairo,Electronics,Headphones,781.88,145,4.0,Credit Card,55.0
+10102,2025-06-08,Mansoura,Electronics,Laptop,705.54,60,4.2,Cash,46.0
+10103,2025-11-20, CAIRO ,Food & Groceries,Milk,809.54,85,3.3,Credit Card,60.0
+10104,2025-03-10,Alex,Food & Groceries,Milk,859.71,115,2.6,Wallet,43.0
+10105,2025-12-29,Alexandria,Clothing,T-Shirt,1103.75,61,3.4,Bank Transfer,53.0
+10106,2025-11-20,Alex,Books,Novel,523.33,104,3.3,Credit Card,26.0
+10107,2025-02-20, CAIRO ,Clothing,Shoes,684.75,75,1.7,Bank Transfer,40.0
+10108,2025-01-01,giza,Electronics,Smartphone,988.22,49,,Cash,26.0
+10109,2025-11-09,Cairo,Clothing,T-Shirt,726.49,61,4.5,Credit Card,19.0
+10110,2025-07-29,Aswan,Food & Groceries,Coffee,274.03,82,2.8,Wallet,41.0
+10111,2025-06-29,Mansoura,Electronics,Tablet,1163.59,69,2.1,Credit Card,45.0
+10112,2025-02-18,Alexandria,Clothing,Shoes,1596.83,41,4.4,Wallet,57.0
+10113,2025-11-23,Aswan,Electronics,Laptop,323.05,32,4.2,Credit Card,49.0
+10114,2025-10-12,cairo,Clothing,T-Shirt,1699.47,56,1.3,Credit Card,64.0
+10115,2025-07-13,Aswan,Clothing,T-Shirt,1236.13,27,1.6,Cash,25.0
+10116,2025-02-24,mansoura ,Electronics,Tablet,979.83,81,3.1,Cash,40.0
+10117,2025-10-15, CAIRO ,Food & Groceries,Rice,1227.77,24,2.0,Wallet,25.0
+10118,2025-09-06,Alex,Clothing,Jacket,850.13,119,3.9,Wallet,
+10119,2025-03-19,cairo,Books,Science Book,,124,3.7,Cash,31.0
+10120,2025-11-07,giza,Food & Groceries,Coffee,1277.1,113,4.4,Bank Transfer,36.0
+10121,2025-10-12,Mansoura,Books,Science Book,879.54,112,2.3,Wallet,19.0
+10122,2025-04-29,Giza,Food & Groceries,Rice,1214.82,69,2.5,Cash,61.0
+10123,2025-12-08, CAIRO ,Food & Groceries,Rice,786.83,123,4.6,Bank Transfer,49.0
+10124,2025-04-25,Aswan,Electronics,Laptop,1554.33,110,2.0,Credit Card,39.0
+10125,2025-01-04,Alexandria,Food & Groceries,Rice,611.08,66,1.1,Credit Card,38.0
+10126,2025-12-22,Aswan,Clothing,Jeans,1501.95,111,4.3,Wallet,59.0
+10127,2025-01-27,giza,Clothing,Jeans,482.7,115,3.5,Cash,24.0
+10128,2025-06-22,Alex,Clothing,T-Shirt,934.26,18,1.2,Bank Transfer,60.0
+10129,2025-11-03,Cairo,Electronics,Smartphone,585.97,47,2.2,Bank Transfer,53.0
+10130,2025-07-06,Giza,Electronics,Smartphone,755.31,106,4.8,Credit Card,22.0
+10131,2025-10-16,Giza,Books,History Book,,44,1.2,Credit Card,62.0
+10132,2025-07-20, CAIRO ,Food & Groceries,Rice,356.19,50,2.7,Cash,60.0
+10133,2025-02-11,Mansoura,Books,History Book,974.91,105,3.8,Credit Card,55.0
+10134,2025-01-12,Mansoura,Clothing,Shoes,1032.31,120,3.1,Bank Transfer,33.0
+10135,2025-12-05, CAIRO ,Books,Novel,1081.68,117,3.5,Bank Transfer,42.0
+10136,2025-03-30,cairo,Clothing,Jacket,1086.47,94,1.1,Cash,24.0
+10137,2025-06-25,Cairo,Electronics,Smartphone,12935.0,110,4.4,Wallet,52.0
+10138,2025-04-13,Cairo,Clothing,Jacket,1115.79,29,2.9,Wallet,54.0
+10139,2025-07-02,Mansoura,Food & Groceries,Coffee,,32,4.2,Cash,30.0
+10140,2025-06-10,giza,Clothing,Jeans,723.66,119,2.8,Credit Card,47.0
+10141,2025-09-04,Alexandria,Food & Groceries,Milk,618.95,471,2.9,Cash,33.0
+10142,2025-08-24,mansoura ,Books,Science Book,706.79,70,3.1,Cash,
+10143,2025-01-03,Mansoura,Electronics,Tablet,447.86,58,1.9,Cash,18.0
+10144,2025-03-14,Cairo,Electronics,Laptop,425.3,110,4.8,Cash,54.0
+10145,2025-07-17,mansoura ,Food & Groceries,Coffee,782.69,110,3.5,Cash,24.0
+10146,2025-09-17,Alexandria,Books,Dictionary,633.27,107,4.3,Credit Card,27.0
+10147,2025-08-14,Mansoura,Food & Groceries,Rice,994.38,71,2.4,Cash,64.0
+10148,2025-06-26,Aswan,Food & Groceries,Pasta,1297.18,72,3.8,Bank Transfer,20.0
+10149,2025-08-15,Alexandria,Books,Dictionary,14.02,63,2.1,Cash,26.0
+10150,2025-08-14,giza,Food & Groceries,Rice,977.36,83,3.9,Credit Card,41.0
+10151,2025-02-07,Giza,Books,Novel,815.96,71,4.8,Bank Transfer,30.0
+10152,2025-03-22,Cairo,Books,Novel,1684.43,74,4.3,Bank Transfer,57.0
+10153,2025-02-09,Aswan,Clothing,T-Shirt,855.08,141,4.5,Bank Transfer,50.0
+10154,2025-02-28,Alexandria,Food & Groceries,Rice,975.85,115,3.7,Wallet,
+10155,2025-07-07,Alexandria,Clothing,Jacket,785.43,106,4.5,Credit Card,27.0
+10156,2025-12-29,Alexandria,Books,History Book,929.04,78,,Cash,29.0
+10157,2025-08-12,Cairo,Food & Groceries,Coffee,808.62,92,2.0,Bank Transfer,41.0
+10158,2025-06-12,Alexandria,Electronics,Smartphone,887.28,137,4.9,Wallet,45.0
+10159,2025-12-01,mansoura ,Books,Novel,605.56,104,4.1,Bank Transfer,44.0
+10160,2025-01-17, CAIRO ,Books,Novel,166.51,118,3.5,Wallet,35.0
+10161,2025-09-27,mansoura ,Clothing,T-Shirt,1507.14,67,3.4,Bank Transfer,24.0
+10162,2025-02-02,Giza,Electronics,Smartphone,601.31,111,1.0,Credit Card,63.0
+10163,2025-10-12,mansoura ,Clothing,Jacket,369.55,84,4.2,Cash,28.0
+10164,2025-10-15,Cairo,Books,Science Book,630.49,79,4.5,Credit Card,61.0
+10165,2025-04-02, CAIRO ,Books,History Book,1446.32,57,2.6,Cash,22.0
+10166,2025-09-14,Giza,Food & Groceries,Milk,551.19,69,1.1,Cash,41.0
+10167,2025-10-01,giza,Books,Dictionary,374.49,94,1.8,Cash,25.0
+10168,2025-01-27,Alex,Food & Groceries,Pasta,979.84,82,4.9,Bank Transfer,63.0
+10169,2025-06-02,Cairo,Food & Groceries,Coffee,931.24,67,2.7,Credit Card,39.0
+10170,2025-04-27,Aswan,Clothing,Shoes,643.84,33,1.0,Credit Card,47.0
+10171,2025-12-04,Mansoura,Books,History Book,1115.64,128,4.0,Bank Transfer,
+10172,2025-09-24,Aswan,Electronics,Tablet,686.83,91,2.9,Bank Transfer,37.0
+10173,2025-07-21, CAIRO ,Electronics,Headphones,872.93,28,1.4,Cash,47.0
+10174,2025-03-18,Cairo,Electronics,Headphones,1021.24,60,4.3,Credit Card,61.0
+10175,2025-12-26,cairo,Electronics,Smartphone,873.7,116,3.5,Wallet,49.0
+10176,2025-07-23,giza,Electronics,Headphones,1242.82,106,3.4,Wallet,24.0
+10177,2025-03-25,Aswan,Food & Groceries,Milk,730.72,129,3.6,Cash,59.0
+10178,2025-01-12,Giza,Clothing,T-Shirt,1629.0,77,2.3,Credit Card,53.0
+10179,2025-08-09,Alex,Electronics,Smartphone,977.1,30,3.0,Bank Transfer,27.0
+10180,2025-02-04,Alexandria,Food & Groceries,Milk,1181.87,86,3.9,Cash,41.0
+10181,2025-10-20,Giza,Books,Dictionary,810.01,137,3.2,Wallet,49.0
+10182,2025-09-07, CAIRO ,Electronics,Tablet,1328.4,423,4.2,Wallet,
+10183,2025-07-05,giza,Food & Groceries,Pasta,564.63,21,4.3,Cash,52.0
+10184,2025-01-08,Mansoura,Clothing,Jeans,607.39,69,,Wallet,54.0
+10185,2025-02-10,Giza,Electronics,Tablet,1363.52,40,3.3,Bank Transfer,
+10186,2025-11-22,cairo,Food & Groceries,Rice,346.86,124,4.1,Bank Transfer,53.0
+10187,2025-10-30,Alexandria,Electronics,Headphones,66.69,97,4.3,Cash,22.0
+10188,2025-09-21,cairo,Books,Novel,540.29,50,2.5,Wallet,54.0
+10189,2025-07-23,Mansoura,Food & Groceries,Rice,636.3,143,4.5,Credit Card,61.0
+10190,2025-11-30,Cairo,Food & Groceries,Coffee,366.93,108,1.7,Wallet,22.0
+10191,2025-06-28,Cairo,Electronics,Headphones,631.67,16,3.7,Credit Card,51.0
+10192,2025-11-02,mansoura ,Electronics,Smartphone,1149.3,10,3.0,Bank Transfer,55.0
+10193,2025-05-31,Cairo,Books,Novel,543.56,105,1.8,Wallet,25.0
+10194,2025-12-18,Alexandria,Electronics,Smartphone,991.53,62,4.4,Credit Card,60.0
+10195,2025-04-24,Giza,Clothing,Jeans,870.38,121,1.1,Bank Transfer,42.0
+10196,2025-10-16,cairo,Clothing,Jacket,418.64,138,3.6,Credit Card,45.0
+10197,2025-07-11,Cairo,Clothing,T-Shirt,682.92,96,2.2,Wallet,21.0
+10198,2025-04-12,Giza,Clothing,Jeans,1115.52,85,,Wallet,36.0
+10199,2025-11-27,Mansoura,Electronics,Headphones,739.42,90,2.3,Bank Transfer,24.0
+10200,2025-11-12,Aswan,Food & Groceries,Rice,576.36,50,1.9,Credit Card,28.0
+10201,2025-04-20,cairo,Food & Groceries,Milk,12.82,69,4.5,Bank Transfer,
+10202,2025-04-27,Alex,Clothing,T-Shirt,313.65,40,3.3,Bank Transfer,53.0
+10203,2025-02-12, CAIRO ,Food & Groceries,Milk,1099.22,119,3.1,Cash,40.0
+10204,2025-12-02,cairo,Food & Groceries,Pasta,845.26,101,2.5,Bank Transfer,38.0
+10205,2025-10-02,Cairo,Electronics,Laptop,961.59,160,3.7,Cash,64.0
+10206,2025-10-18,Aswan,Books,Science Book,1330.08,113,2.1,Bank Transfer,43.0
+10207,2025-12-16,Alexandria,Electronics,Smartphone,915.26,101,1.7,Wallet,59.0
+10208,2025-10-25,giza,Electronics,Tablet,1289.1,87,3.2,Bank Transfer,62.0
+10209,2025-02-16,mansoura ,Clothing,Jacket,886.62,157,3.4,Credit Card,26.0
+10210,2025-01-10,Alexandria,Food & Groceries,Rice,364.65,69,4.1,Credit Card,41.0
+10211,2025-04-10,Mansoura,Food & Groceries,Milk,1005.34,110,1.6,Wallet,22.0
+10212,2025-02-18, CAIRO ,Food & Groceries,Milk,1663.82,33,1.7,Cash,32.0
+10213,2025-06-09,cairo,Food & Groceries,Rice,1310.82,39,3.0,Credit Card,52.0
+10214,2025-03-26,cairo,Food & Groceries,Milk,1387.2,73,3.8,Wallet,41.0
+10215,2025-10-29,Cairo,Books,Science Book,1038.45,81,4.1,Bank Transfer,57.0
+10216,2025-12-19,Aswan,Electronics,Laptop,414.73,68,2.4,Bank Transfer,30.0
+10217,2025-11-12,Cairo,Electronics,Laptop,868.66,71,2.1,Bank Transfer,20.0
+10218,2025-10-27,Giza,Clothing,Jacket,275.14,50,5.0,Wallet,47.0
+10219,2025-09-21,Aswan,Books,Science Book,453.26,108,3.1,Credit Card,47.0
+10220,2025-02-24, CAIRO ,Electronics,Laptop,10.0,75,1.5,Wallet,57.0
+10221,2025-01-05, CAIRO ,Clothing,Shoes,1224.58,94,3.1,Credit Card,39.0
+10222,2025-08-19,giza,Clothing,T-Shirt,976.31,107,3.8,Credit Card,53.0
+10223,2025-05-31,Giza,Electronics,Headphones,262.24,54,2.0,Cash,28.0
+10224,2025-06-29,Giza,Food & Groceries,Milk,936.0,164,4.7,Wallet,32.0
+10225,2025-11-12,Alex,Clothing,Jeans,10.0,90,3.2,Cash,52.0
+10226,2025-08-04,Aswan,Clothing,Jeans,998.95,107,2.2,Cash,32.0
+10227,2025-06-12,Alexandria,Electronics,Headphones,1049.3,93,3.3,Cash,50.0
+10228,2025-04-05,Aswan,Books,Science Book,900.42,86,4.3,Cash,51.0
+10229,2025-01-25,Alexandria,Books,Novel,977.72,91,2.7,Cash,48.0
+10230,2025-01-20,Mansoura,Clothing,Shoes,817.17,83,2.5,Wallet,22.0
+10231,2025-09-23,Alexandria,Food & Groceries,Milk,602.72,77,,Credit Card,63.0
+10232,2025-09-20,cairo,Food & Groceries,Pasta,1332.41,130,1.9,Cash,56.0
+10233,2025-11-04,Alexandria,Books,Dictionary,10.0,118,1.5,Bank Transfer,52.0
+10234,2025-06-04,Mansoura,Food & Groceries,Milk,657.83,55,4.9,Wallet,
+10235,2025-08-07,Mansoura,Clothing,Jeans,1102.09,66,1.5,Wallet,22.0
+10236,2025-01-13,Cairo,Electronics,Headphones,381.95,105,1.3,Bank Transfer,53.0
+10237,2025-07-07,cairo,Electronics,Laptop,382.43,88,2.3,Bank Transfer,35.0
+10238,2025-08-15,Mansoura,Books,Dictionary,692.52,120,4.8,Cash,58.0
+10239,2025-01-17,cairo,Books,Novel,588.03,144,2.0,Credit Card,57.0
+10240,2025-10-11,cairo,Electronics,Headphones,467.95,25,1.9,Cash,40.0
+10241,2025-06-22,Alexandria,Books,Dictionary,789.46,97,1.2,Bank Transfer,40.0
+10242,2025-04-19,Alex,Food & Groceries,Coffee,519.13,128,,Wallet,32.0
+10243,2025-01-28,Giza,Food & Groceries,Milk,898.89,68,4.1,Bank Transfer,27.0
+10244,2025-04-21,Cairo,Clothing,Shoes,860.91,97,1.9,Cash,19.0
+10245,2025-02-18,Giza,Food & Groceries,Pasta,1024.59,126,3.1,Credit Card,27.0
+10246,2025-06-13,Giza,Electronics,Tablet,787.13,59,4.7,Bank Transfer,49.0
+10247,2025-08-14,Alexandria,Books,History Book,880.48,62,1.4,Bank Transfer,31.0
+10248,2025-04-24,mansoura ,Books,Science Book,873.7,105,3.0,Cash,
+10249,2025-05-02,Alex,Food & Groceries,Coffee,677.51,106,3.2,Cash,30.0
+10250,2025-05-29,mansoura ,Clothing,Jeans,1111.01,112,3.6,Wallet,39.0
+10251,2025-08-23,Giza,Clothing,Shoes,939.89,70,4.3,Wallet,32.0
+10252,2025-03-29,Giza,Food & Groceries,Milk,1605.14,122,3.0,Wallet,36.0
+10253,2025-01-30,giza,Food & Groceries,Coffee,737.49,120,,Credit Card,
+10254,2025-05-09, CAIRO ,Books,History Book,8321.0,77,1.8,Credit Card,38.0
+10255,2025-10-29,cairo,Books,History Book,454.52,134,3.2,Bank Transfer,39.0
+10256,2025-03-31,Alex,Clothing,Shoes,525.29,109,4.8,Cash,37.0
+10257,2025-08-31,Alex,Food & Groceries,Milk,513.99,27,3.9,Bank Transfer,52.0
+10258,2025-10-20,cairo,Clothing,Jeans,266.02,127,4.2,Bank Transfer,34.0
+10259,2025-03-12,Aswan,Food & Groceries,Milk,611.81,99,1.9,Bank Transfer,21.0
+10260,2025-09-11,Aswan,Books,Science Book,581.32,114,4.3,Cash,63.0
+10261,2025-06-01,Giza,Food & Groceries,Milk,828.55,129,2.5,Credit Card,50.0
+10262,2025-11-15,Alexandria,Clothing,Jacket,1016.18,110,3.9,Credit Card,62.0
+10263,2025-07-17,cairo,Electronics,Tablet,990.79,61,5.0,Bank Transfer,28.0
+10264,2025-05-17,mansoura ,Food & Groceries,Rice,628.9,56,,Cash,60.0
+10265,2025-12-16,Alex,Electronics,Laptop,950.08,95,4.1,Wallet,59.0
+10266,2025-10-29,Alexandria,Food & Groceries,Rice,670.91,102,4.2,Credit Card,22.0
+10267,2025-03-11,cairo,Books,Science Book,790.37,143,2.7,Cash,53.0
+10268,2025-10-24,Alexandria,Clothing,Shoes,704.02,60,4.7,Cash,53.0
+10269,2025-12-30,Cairo,Electronics,Headphones,492.71,65,4.6,Bank Transfer,27.0
+10270,2025-07-01,Mansoura,Books,Novel,615.87,89,1.3,Credit Card,60.0
+10271,2025-01-21,Aswan,Electronics,Laptop,740.92,93,1.9,Bank Transfer,28.0
+10272,2025-05-23,giza,Books,Novel,,71,2.0,Cash,54.0
+10273,2025-01-21,Giza,Clothing,Jacket,506.79,108,2.4,Wallet,42.0
+10274,2025-06-10,Alexandria,Electronics,Tablet,511.91,85,3.7,Cash,34.0
+10275,2025-03-02,Alexandria,Books,Dictionary,696.56,94,3.8,Cash,51.0
+10276,2025-07-17,Alex,Clothing,Jeans,952.8,117,2.8,Bank Transfer,
+10277,2025-03-17,Cairo,Clothing,Shoes,694.14,65,4.9,Wallet,49.0
+10278,2025-10-04,Alexandria,Food & Groceries,Coffee,1078.4,114,1.1,Bank Transfer,38.0
+10279,2025-08-02,Alexandria,Food & Groceries,Milk,697.87,43,4.9,Credit Card,19.0
+10280,2025-09-05,Mansoura,Electronics,Tablet,533.49,44,4.2,Wallet,40.0
+10281,2025-06-27,Cairo,Electronics,Laptop,159.23,96,4.2,Bank Transfer,54.0
+10282,2025-03-13,Alex,Electronics,Smartphone,10.0,121,3.2,Credit Card,24.0
+10283,2025-12-31,giza,Books,Science Book,809.56,51,3.4,Wallet,25.0
+10284,2025-06-25,Alexandria,Electronics,Tablet,499.23,124,5.0,Cash,38.0
+10285,2025-09-26,Giza,Clothing,Shoes,734.5,119,1.6,Wallet,22.0
+10286,2025-05-11,Aswan,Electronics,Laptop,624.26,106,2.5,Wallet,45.0
+10287,2025-09-22,Alex,Electronics,Headphones,900.09,77,5.0,Credit Card,64.0
+10288,2025-12-30,Giza,Books,Dictionary,1253.95,89,2.3,Credit Card,38.0
+10289,2025-09-05,Cairo,Books,Novel,602.15,77,2.4,Wallet,35.0
+10290,2025-03-16,cairo,Clothing,Shoes,1353.87,105,4.2,Credit Card,32.0
+10291,2025-10-16,Alexandria,Food & Groceries,Pasta,688.85,69,1.0,Wallet,56.0
+10292,2025-07-20,cairo,Clothing,T-Shirt,621.78,113,3.6,Bank Transfer,42.0
+10293,2025-10-21,Mansoura,Food & Groceries,Rice,979.87,95,4.5,Wallet,26.0
+10294,2025-09-09,cairo,Food & Groceries,Milk,1100.74,100,1.0,Wallet,44.0
+10295,2025-02-15,Mansoura,Clothing,Shoes,466.85,80,2.7,Wallet,31.0
+10296,2025-03-25,Cairo,Food & Groceries,Pasta,916.19,95,,Bank Transfer,36.0
+10297,2025-10-02,Alex,Clothing,Shoes,813.6,94,3.2,Bank Transfer,36.0
+10298,2025-04-30, CAIRO ,Food & Groceries,Rice,758.04,83,1.2,Cash,42.0
+10299,2025-07-22,Cairo,Clothing,T-Shirt,1167.54,64,1.2,Bank Transfer,45.0
+10300,2025-01-02,cairo,Books,Science Book,9330.0,157,4.4,Bank Transfer,47.0
+10301,2025-02-04,Giza,Books,Science Book,824.52,124,1.3,Bank Transfer,54.0
+10302,2025-06-21,Cairo,Food & Groceries,Rice,620.34,90,4.5,Credit Card,41.0
+10303,2025-03-06,Cairo,Books,History Book,166.49,69,2.7,Wallet,32.0
+10304,2025-05-27,giza,Electronics,Laptop,1301.26,81,3.6,Wallet,24.0
+10305,2025-01-28,Alexandria,Books,Dictionary,1559.83,84,4.8,Credit Card,44.0
+10306,2025-12-27,Aswan,Food & Groceries,Coffee,1117.4,83,1.0,Cash,29.0
+10307,2025-08-06,giza,Clothing,Jacket,722.93,27,1.8,Wallet,62.0
+10308,2025-11-08,Aswan,Books,Novel,691.78,67,4.2,Cash,59.0
+10309,2025-11-06,mansoura ,Food & Groceries,Rice,596.73,115,4.3,Cash,56.0
+10310,2025-02-10,Cairo,Food & Groceries,Pasta,660.31,70,2.6,Bank Transfer,36.0
+10311,2025-03-13,giza,Books,Novel,1094.52,55,2.2,Credit Card,56.0
+10312,2025-09-07, CAIRO ,Books,Novel,630.93,94,2.0,Wallet,64.0
+10313,2025-12-04,Giza,Books,Dictionary,508.7,23,2.5,Wallet,64.0
+10314,2025-03-25,giza,Books,Dictionary,721.3,70,4.8,Wallet,46.0
+10315,2025-07-21,Mansoura,Electronics,Smartphone,,166,1.6,Cash,56.0
+10316,2025-09-16, CAIRO ,Books,History Book,873.47,140,4.3,Credit Card,57.0
+10317,2025-03-22,cairo,Clothing,Shoes,755.01,33,3.3,Credit Card,
+10318,2025-03-03,Aswan,Electronics,Smartphone,1267.53,85,1.3,Cash,60.0
+10319,2025-04-09,Cairo,Clothing,T-Shirt,1150.2,69,2.8,Credit Card,49.0
+10320,2025-07-14,Alex,Food & Groceries,Coffee,674.34,96,4.6,Bank Transfer,53.0
+10321,2025-06-16,Aswan,Books,Dictionary,413.0,83,4.6,Cash,64.0
+10322,2025-10-02,Cairo,Books,Dictionary,1245.77,75,3.4,Cash,55.0
+10323,2025-11-21,Aswan,Books,Dictionary,1461.99,76,1.6,Cash,
+10324,2025-12-10,Aswan,Books,History Book,181.45,46,2.3,Cash,32.0
+10325,2025-01-30,Alexandria,Electronics,Headphones,,79,3.4,Bank Transfer,26.0
+10326,2025-10-12,Giza,Electronics,Smartphone,793.59,101,3.1,Cash,39.0
+10327,2025-12-09,Mansoura,Electronics,Headphones,989.99,115,1.7,Cash,63.0
+10328,2025-01-21,mansoura ,Food & Groceries,Coffee,365.43,94,3.3,Cash,52.0
+10329,2025-04-21,Alex,Electronics,Tablet,902.15,116,3.3,Credit Card,36.0
+10330,2025-12-07,Alexandria,Electronics,Laptop,1725.52,44,1.9,Bank Transfer,44.0
+10331,2025-12-20, CAIRO ,Electronics,Laptop,609.09,88,4.0,Wallet,45.0
+10332,2025-07-03,Giza,Electronics,Headphones,806.57,109,1.4,Bank Transfer,49.0
+10333,2025-07-02,Mansoura,Clothing,Jeans,1735.73,118,,Wallet,28.0
+10334,2025-09-06,Mansoura,Books,Novel,1217.88,79,,Bank Transfer,24.0
+10335,2025-06-12,Alexandria,Electronics,Laptop,315.37,118,2.0,Wallet,55.0
+10336,2025-11-21,Aswan,Food & Groceries,Milk,1052.94,64,4.1,Credit Card,46.0
+10337,2025-06-20,giza,Clothing,Jeans,656.51,67,2.4,Credit Card,58.0
+10338,2025-02-04,Alexandria,Books,Novel,756.7,79,3.5,Wallet,54.0
+10339,2025-08-20,mansoura ,Electronics,Tablet,1216.12,457,4.4,Credit Card,57.0
+10340,2025-09-22, CAIRO ,Food & Groceries,Milk,225.91,41,1.3,Wallet,25.0
+10341,2025-07-07,Aswan,Food & Groceries,Pasta,137.23,96,1.3,Wallet,51.0
+10342,2025-05-24,Mansoura,Clothing,Jeans,743.52,68,2.2,Bank Transfer,51.0
+10343,2025-08-03,giza,Food & Groceries,Milk,1202.6,98,3.2,Credit Card,30.0
+10344,2025-02-22,Mansoura,Electronics,Laptop,10.0,95,3.3,Bank Transfer,37.0
+10345,2025-01-14,Mansoura,Books,Science Book,966.73,105,3.2,Wallet,21.0
+10346,2025-02-28, CAIRO ,Electronics,Headphones,406.93,80,4.5,Bank Transfer,51.0
+10347,2025-03-16,Giza,Food & Groceries,Rice,580.83,90,2.1,Credit Card,34.0
+10348,2025-03-29,Alex,Food & Groceries,Rice,967.93,84,1.3,Bank Transfer,
+10349,2025-03-06,Alexandria,Electronics,Laptop,633.32,116,4.2,Wallet,30.0
+10350,2025-06-26,Mansoura,Food & Groceries,Pasta,777.06,149,2.6,Wallet,42.0
+10351,2025-06-24,Alexandria,Books,Novel,741.02,95,2.1,Wallet,34.0
+10352,2025-10-08,Giza,Books,Novel,1584.4,77,5.0,Cash,54.0
+10353,2025-10-31,Mansoura,Clothing,Shoes,294.65,21,1.8,Credit Card,52.0
+10354,2025-12-27,Cairo,Books,Novel,876.97,50,2.7,Credit Card,33.0
+10355,2025-11-25,giza,Electronics,Headphones,704.44,100,3.7,Cash,62.0
+10356,2025-08-04,mansoura ,Clothing,Shoes,495.62,123,3.6,Cash,45.0
+10357,2025-11-06,Alexandria,Books,Dictionary,1150.73,105,4.1,Cash,61.0
+10358,2025-02-22,cairo,Food & Groceries,Rice,266.14,55,1.1,Bank Transfer,31.0
+10359,2025-06-12,Aswan,Clothing,Jacket,1030.66,81,2.1,Cash,60.0
+10360,2025-08-16,Cairo,Electronics,Headphones,386.72,123,4.1,Wallet,34.0
+10361,2025-04-02,mansoura ,Books,History Book,532.9,94,2.5,Cash,51.0
+10362,2025-05-14,Mansoura,Electronics,Tablet,1143.3,67,3.1,Bank Transfer,29.0
+10363,2025-07-27,Giza,Books,Dictionary,1159.69,93,3.7,Bank Transfer,28.0
+10364,2025-08-13,cairo,Books,Dictionary,10.0,61,2.2,Wallet,46.0
+10365,2025-06-06,Giza,Electronics,Tablet,552.6,88,3.7,Bank Transfer,43.0
+10366,2025-04-29,Alex,Books,Dictionary,1252.18,130,3.2,Credit Card,58.0
+10367,2025-02-28, CAIRO ,Electronics,Smartphone,918.59,60,4.1,Cash,36.0
+10368,2025-06-30,Aswan,Food & Groceries,Pasta,1353.19,59,2.0,Cash,64.0
+10369,2025-04-12,Giza,Books,Dictionary,553.1,91,3.8,Credit Card,22.0
+10370,2025-11-04,Alexandria,Books,Dictionary,237.32,95,3.0,Cash,63.0
+10371,2025-10-21,giza,Electronics,Headphones,1565.68,33,2.7,Credit Card,20.0
+10372,2025-01-06,Mansoura,Clothing,Shoes,905.57,110,1.5,Wallet,30.0
+10373,2025-01-11,Mansoura,Clothing,Shoes,240.66,103,2.7,Wallet,40.0
+10374,2025-12-24,cairo,Food & Groceries,Milk,512.15,129,3.8,Wallet,33.0
+10375,2025-09-04,Mansoura,Clothing,Jeans,1431.52,84,2.0,Cash,60.0
+10376,2025-03-22,Alexandria,Food & Groceries,Pasta,996.81,102,3.4,Cash,27.0
+10377,2025-04-11,Mansoura,Books,Dictionary,1020.02,51,1.9,Bank Transfer,57.0
+10378,2025-02-24, CAIRO ,Clothing,Jacket,504.35,65,2.6,Bank Transfer,30.0
+10379,2025-01-10,giza,Electronics,Headphones,1060.47,84,5.0,Bank Transfer,42.0
+10380,2025-11-23,Mansoura,Electronics,Tablet,770.4,69,2.1,Cash,35.0
+10381,2025-04-26,Mansoura,Electronics,Laptop,1282.55,52,2.0,Credit Card,43.0
+10382,2025-04-26,Cairo,Electronics,Smartphone,657.54,110,4.8,Cash,28.0
+10383,2025-05-29,Aswan,Books,Science Book,736.38,95,2.7,Wallet,24.0
+10384,2025-02-09,Mansoura,Clothing,Jeans,755.36,135,3.0,Bank Transfer,62.0
+10385,2025-02-10,Giza,Electronics,Tablet,671.82,103,1.3,Bank Transfer,32.0
+10386,2025-07-14,Cairo,Food & Groceries,Coffee,632.5,118,3.8,Bank Transfer,41.0
+10387,2025-01-04,Alexandria,Clothing,T-Shirt,588.43,88,2.2,Cash,22.0
+10388,2025-09-11,Aswan,Food & Groceries,Rice,563.5,91,4.9,Wallet,56.0
+10389,2025-03-26,Giza,Clothing,Jacket,592.17,61,3.9,Bank Transfer,
+10390,2025-12-09,cairo,Electronics,Headphones,1217.94,60,4.3,Credit Card,64.0
+10391,2025-08-16,mansoura ,Clothing,Shoes,888.85,137,1.6,Bank Transfer,48.0
+10392,2025-07-21,Cairo,Clothing,Jeans,946.44,132,4.8,Credit Card,39.0
+10393,2025-09-30,cairo,Electronics,Tablet,476.43,99,3.2,Cash,18.0
+10394,2025-08-05,Alexandria,Food & Groceries,Rice,1178.68,119,2.8,Cash,64.0
+10395,2025-06-16,Alex,Food & Groceries,Rice,1093.63,71,1.8,Cash,23.0
+10396,2025-12-06,mansoura ,Clothing,Jacket,909.1,76,3.7,Cash,18.0
+10397,2025-09-28,Aswan,Electronics,Tablet,550.63,133,1.1,Bank Transfer,52.0
+10398,2025-03-19, CAIRO ,Books,Science Book,11920.0,177,,Cash,57.0
+10399,2025-07-12,Giza,Food & Groceries,Pasta,716.72,98,4.2,Wallet,36.0
+10400,2025-03-21,Alexandria,Books,Science Book,1003.02,120,3.5,Credit Card,39.0
+10401,2025-11-09,Alex,Food & Groceries,Coffee,949.14,84,4.4,Wallet,36.0
+10402,2025-07-29,Giza,Food & Groceries,Pasta,824.41,70,2.2,Wallet,22.0
+10403,2025-05-20,cairo,Food & Groceries,Rice,1153.17,84,3.4,Bank Transfer,50.0
+10404,2025-02-19,Mansoura,Clothing,Jacket,621.38,96,1.8,Wallet,21.0
+10405,2025-05-21,Alex,Electronics,Smartphone,385.09,105,2.7,Credit Card,46.0
+10406,2025-01-29,Giza,Books,History Book,,88,1.3,Cash,27.0
+10407,2025-11-18,mansoura ,Electronics,Laptop,815.36,101,1.8,Bank Transfer,58.0
+10408,2025-08-07,Aswan,Electronics,Smartphone,510.02,70,2.9,Bank Transfer,19.0
+10409,2025-10-07,cairo,Books,Science Book,899.99,57,1.7,Wallet,55.0
+10410,2025-02-10,Cairo,Books,Dictionary,489.92,87,3.2,Cash,51.0
+10411,2025-11-19,Mansoura,Clothing,Jacket,1216.47,120,,Cash,53.0
+10412,2025-09-15,giza,Food & Groceries,Rice,753.14,59,3.4,Wallet,39.0
+10413,2025-02-17,Cairo,Food & Groceries,Pasta,1382.51,111,3.7,Bank Transfer,18.0
+10414,2025-10-28,Aswan,Electronics,Laptop,1045.46,92,1.9,Cash,62.0
+10415,2025-04-16, CAIRO ,Clothing,Jeans,791.76,84,1.4,Wallet,38.0
+10416,2025-09-28,Alex,Food & Groceries,Coffee,1412.35,131,3.6,Credit Card,37.0
+10417,2025-06-17,cairo,Electronics,Laptop,925.71,107,1.1,Wallet,50.0
+10418,2025-03-10,Cairo,Electronics,Headphones,776.49,545,3.9,Credit Card,50.0
+10419,2025-01-16,Cairo,Food & Groceries,Pasta,1068.86,80,2.5,Bank Transfer,30.0
+10420,2025-06-23,Mansoura,Books,Science Book,1104.2,116,3.1,Wallet,63.0
+10421,2025-07-28,giza,Clothing,Jeans,591.26,122,4.5,Cash,54.0
+10422,2025-12-04,Alex,Electronics,Laptop,1149.77,82,3.6,Credit Card,57.0
+10423,2025-04-24,cairo,Books,Novel,661.25,131,3.0,Bank Transfer,28.0
+10424,2025-07-04,Alexandria,Clothing,Jeans,558.36,90,3.0,Bank Transfer,45.0
+10425,2025-05-09, CAIRO ,Food & Groceries,Milk,789.95,85,4.7,Cash,46.0
+10426,2025-07-21,mansoura ,Electronics,Headphones,847.5,94,3.7,Wallet,21.0
+10427,2025-05-09,Giza,Electronics,Tablet,1454.37,30,,Cash,41.0
+10428,2025-08-25,Giza,Electronics,Tablet,996.49,108,3.5,Cash,59.0
+10429,2025-10-22,Alexandria,Clothing,T-Shirt,719.57,676,3.2,Wallet,56.0
+10430,2025-04-28,Alex,Clothing,Jacket,861.19,94,4.0,Cash,39.0
+10431,2025-10-12,Mansoura,Electronics,Smartphone,994.43,62,1.9,Wallet,62.0
+10432,2025-09-04,Cairo,Electronics,Headphones,1311.61,94,2.2,Credit Card,50.0
+10433,2025-07-28,Mansoura,Clothing,Shoes,8995.0,102,2.4,Bank Transfer,53.0
+10434,2025-07-20,Alexandria,Clothing,Jacket,317.83,73,,Bank Transfer,41.0
+10435,2025-12-29,Aswan,Books,History Book,987.73,100,3.7,Bank Transfer,
+10436,2025-12-20,Mansoura,Clothing,Jeans,674.4,91,4.8,Bank Transfer,46.0
+10437,2025-05-08,mansoura ,Food & Groceries,Rice,634.5,51,4.6,Wallet,56.0
+10438,2025-07-12,Cairo,Electronics,Laptop,946.6,115,2.6,Cash,60.0
+10439,2025-10-09,Giza,Books,Novel,1120.4,122,4.0,Cash,39.0
+10440,2025-12-30,Giza,Books,Novel,1165.47,183,4.3,Cash,62.0
+10441,2025-05-19,Cairo,Food & Groceries,Milk,486.03,69,1.2,Credit Card,29.0
+10442,2025-07-04, CAIRO ,Food & Groceries,Coffee,867.04,73,1.3,Credit Card,30.0
+10443,2025-12-01,Alexandria,Electronics,Laptop,143.21,108,1.9,Credit Card,31.0
+10444,2025-02-09,Cairo,Books,Science Book,291.52,48,1.2,Wallet,60.0
+10445,2025-12-13,Mansoura,Books,Science Book,726.87,153,1.0,Bank Transfer,51.0
+10446,2025-07-26,Cairo,Electronics,Tablet,960.05,133,4.1,Cash,56.0
+10447,2025-11-10, CAIRO ,Books,History Book,1175.99,135,4.0,Wallet,
+10448,2025-08-08,Mansoura,Electronics,Headphones,869.05,99,3.4,Bank Transfer,43.0
+10449,2025-09-02,cairo,Books,Science Book,537.96,38,3.9,Bank Transfer,25.0
+10450,2025-02-28,Alexandria,Books,Novel,670.32,47,,Bank Transfer,28.0
+10451,2025-12-02,Cairo,Food & Groceries,Milk,741.98,57,2.8,Credit Card,49.0
+10452,2025-03-03,cairo,Electronics,Smartphone,1261.95,111,1.9,Credit Card,62.0
+10453,2025-06-05,Mansoura,Books,Science Book,962.12,48,2.1,Wallet,32.0
+10454,2025-10-06,mansoura ,Food & Groceries,Pasta,891.15,73,2.5,Bank Transfer,25.0
+10455,2025-06-14,Giza,Electronics,Headphones,1127.39,83,4.3,Bank Transfer,63.0
+10456,2025-06-25,Giza,Clothing,Shoes,823.8,47,3.9,Wallet,57.0
+10457,2025-08-18,Cairo,Electronics,Tablet,964.24,43,,Bank Transfer,44.0
+10458,2025-05-20,Giza,Books,History Book,1010.86,121,1.0,Wallet,52.0
+10459,2025-05-23,Giza,Food & Groceries,Rice,1225.18,72,3.3,Wallet,52.0
+10460,2025-06-15,Cairo,Clothing,Shoes,1267.22,108,1.2,Wallet,60.0
+10461,2025-12-21,mansoura ,Clothing,T-Shirt,887.26,121,3.3,Cash,46.0
+10462,2025-01-19,Mansoura,Food & Groceries,Milk,881.81,57,3.3,Wallet,41.0
+10463,2025-04-20,Mansoura,Food & Groceries,Pasta,285.22,94,5.0,Bank Transfer,21.0
+10464,2025-04-23,Mansoura,Clothing,Jeans,592.68,93,2.8,Credit Card,44.0
+10465,2025-07-01,Mansoura,Food & Groceries,Coffee,870.72,109,1.2,Wallet,42.0
+10466,2025-07-01,Giza,Electronics,Smartphone,1062.6,107,,Bank Transfer,29.0
+10467,2025-08-02,Aswan,Clothing,T-Shirt,682.7,100,,Bank Transfer,
+10468,2025-02-28,cairo,Food & Groceries,Pasta,1467.08,76,4.6,Bank Transfer,43.0
+10469,2025-01-13,Alexandria,Clothing,T-Shirt,955.62,121,1.3,Wallet,25.0
+10470,2025-10-26,Cairo,Books,Dictionary,872.33,112,2.0,Credit Card,60.0
+10471,2025-02-14,mansoura ,Food & Groceries,Pasta,1020.34,65,2.1,Wallet,26.0
+10472,2025-06-28,Cairo,Food & Groceries,Milk,1103.21,138,3.5,Wallet,48.0
+10473,2025-08-10,Alexandria,Electronics,Tablet,920.07,99,4.8,Wallet,63.0
+10474,2025-04-08,Cairo,Food & Groceries,Pasta,766.39,51,1.2,Bank Transfer,27.0
+10475,2025-02-21,Mansoura,Books,Dictionary,778.38,104,2.1,Bank Transfer,28.0
+10476,2025-07-11,Giza,Clothing,Jeans,304.76,51,2.2,Bank Transfer,54.0
+10477,2025-03-27,giza,Clothing,Jeans,1108.41,78,1.6,Wallet,39.0
+10478,2025-01-31,Giza,Clothing,Shoes,425.77,100,2.9,Credit Card,57.0
+10479,2025-08-26,Giza,Books,Dictionary,766.59,36,1.3,Wallet,48.0
+10480,2025-11-09, CAIRO ,Food & Groceries,Rice,384.95,20,3.9,Bank Transfer,35.0
+10481,2025-04-16,Giza,Food & Groceries,Coffee,,58,4.1,Bank Transfer,37.0
+10482,2025-08-07,Aswan,Clothing,T-Shirt,781.66,141,2.9,Wallet,24.0
+10483,2025-08-15,Alex,Electronics,Tablet,615.84,31,4.0,Credit Card,57.0
+10484,2025-12-31,mansoura ,Electronics,Laptop,1405.19,92,3.1,Credit Card,48.0
+10485,2025-05-12,mansoura ,Clothing,Shoes,1316.93,54,1.6,Credit Card,45.0
+10486,2025-08-10,Alex,Electronics,Smartphone,954.7,77,2.1,Cash,55.0
+10487,2025-09-04,Aswan,Books,Novel,557.46,114,4.8,Bank Transfer,29.0
+10488,2025-11-11,Alex,Electronics,Smartphone,1667.79,158,3.4,Bank Transfer,30.0
+10489,2025-05-07,cairo,Electronics,Laptop,1273.91,110,1.6,Cash,18.0
+10490,2025-09-30,Giza,Food & Groceries,Pasta,472.22,69,2.0,Wallet,30.0
+10491,2025-08-17,Mansoura,Food & Groceries,Rice,1102.59,135,4.0,Wallet,34.0
+10492,2025-12-25,mansoura ,Clothing,Jeans,1210.08,79,1.7,Cash,47.0
+10493,2025-04-22,Giza,Electronics,Tablet,1045.46,56,2.9,Bank Transfer,48.0
+10494,2025-06-29,Giza,Electronics,Laptop,1219.87,83,1.6,Wallet,28.0
+10495,2025-07-27,Alexandria,Clothing,Jacket,1336.16,84,4.7,Bank Transfer,25.0
+10496,2025-07-09,cairo,Food & Groceries,Coffee,642.5,127,,Wallet,
+10497,2025-08-09,Alex,Electronics,Tablet,738.55,110,1.3,Cash,62.0
+10498,2025-11-06,Cairo,Books,Novel,554.05,53,1.1,Wallet,19.0
+10499,2025-04-14,mansoura ,Food & Groceries,Pasta,1394.82,122,1.8,Bank Transfer,19.0
+10304,2025-05-27,giza,Electronics,Laptop,1301.26,81,3.6,Wallet,24.0
+10340,2025-09-22, CAIRO ,Food & Groceries,Milk,225.91,41,1.3,Wallet,25.0
+10047,2025-12-06,Aswan,Food & Groceries,Milk,437.96,96,4.2,Wallet,54.0
+10067,2025-03-23,Mansoura,Electronics,Laptop,337.92,144,4.7,Credit Card,62.0
+10479,2025-08-26,Giza,Books,Dictionary,766.59,36,1.3,Wallet,48.0
+10485,2025-05-12,mansoura ,Clothing,Shoes,1316.93,54,1.6,Credit Card,45.0
+10310,2025-02-10,Cairo,Food & Groceries,Pasta,660.31,70,2.6,Bank Transfer,36.0
+10031,2025-11-13,Aswan,Books,Dictionary,814.69,85,1.7,Bank Transfer,47.0
+10249,2025-05-02,Alex,Food & Groceries,Coffee,677.51,106,3.2,Cash,30.0
+10090,2025-03-03,giza,Books,History Book,188.84,168,4.4,Cash,23.0
+10322,2025-10-02,Cairo,Books,Dictionary,1245.77,75,3.4,Cash,55.0
+10168,2025-01-27,Alex,Food & Groceries,Pasta,979.84,82,4.9,Bank Transfer,63.0
+10119,2025-03-19,cairo,Books,Science Book,,124,3.7,Cash,31.0
+10066,2025-05-25,Giza,Clothing,T-Shirt,999.97,119,1.7,Credit Card,
+10305,2025-01-28,Alexandria,Books,Dictionary,1559.83,84,4.8,Credit Card,44.0
